@@ -1,10 +1,10 @@
 package main
 
 import (
-    "fmt"
-    "math"
+	"fmt"
+	"math"
 )
 
 func main() {
-    fmt.Println("Square root of 7 is", math.Sqrt(7))
+	fmt.Println("Square root of 7 is", math.Sqrt(7))
 }

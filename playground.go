@@ -1,11 +1,11 @@
 package main
 
 import (
-    "fmt"
-    "time"
+	"fmt"
+	"time"
 )
 
 func main() {
-    fmt.Println("Welcome to the Go lang!")
-    fmt.Println("The time now is: ", time.Now())
+	fmt.Println("Welcome to the Go lang!")
+	fmt.Println("The time now is: ", time.Now())
 }

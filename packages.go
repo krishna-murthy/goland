@@ -1,10 +1,10 @@
 package main
 
 import (
-    "fmt"
-    "math/rand"
+	"fmt"
+	"math/rand"
 )
 
 func main() {
-    fmt.Println("Random number is", rand.Intn(10))
+	fmt.Println("Random number is", rand.Intn(10))
 }
